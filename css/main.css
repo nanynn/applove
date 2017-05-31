@@ -113,3 +113,37 @@ footer{
   color: white;
   padding-top: 7px;
 }
+
+
+/********* Ejercicio evaluado ***********/
+#work{
+  text-align: center;
+  margin-top: 70px;
+  display: inline-block;
+}
+
+.text-work{
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+
+#work p{
+  padding: 0 10% 5% 10%; 
+}
+
+#work .computador{
+  background-image: url(../assets/images/hero.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 554px;
+}
+
+.box-work{
+  display: inline-block;
+  width: 25%;
+  margin: 3%;
+  text-align: center;
+}
+
+/****Clases de js****/
