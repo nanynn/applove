@@ -24,7 +24,7 @@
 			img = document.createElement('img');
 
 			//img.classList.add('img-modal');
-			img.setAttribute('id', 'img-modal');
+			//img.setAttribute('id', 'img-modal');
 			img.setAttribute('src', 'http://tojaeurope.com/gallery/Close-icon.png');
 			
 
